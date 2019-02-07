@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e791e35b-6934-4965-9040-e8568a298089" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementLocators/Elements.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecFiles/TC_003.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConfigFiles/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/ConfigFiles/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpecFiles/FirstSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFiles/FirstSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFiles/SecondSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFiles/SecondSpec.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,28 +21,46 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpecFiles/SecondSpec.js">
+        <entry file="file://$PROJECT_DIR$/SpecFiles/FirstSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="238">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="15" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpecFiles/FirstSpec.js">
+        <entry file="file://$PROJECT_DIR$/ElementLocators/Elements.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="187">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConfigFiles/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpecFiles/SecondSpec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="66" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ConfigFiles/config.js">
+        <entry file="file://$PROJECT_DIR$/SpecFiles/TC_003.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="272">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -59,17 +80,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SpecFiles/SecondSpec.js" />
-        <option value="$PROJECT_DIR$/ConfigFiles/config.js" />
+        <option value="$PROJECT_DIR$/ElementLocators/Elements.json" />
         <option value="$PROJECT_DIR$/SpecFiles/FirstSpec.js" />
+        <option value="$PROJECT_DIR$/SpecFiles/SecondSpec.js" />
+        <option value="$PROJECT_DIR$/SpecFiles/TC_001.js" />
+        <option value="$PROJECT_DIR$/ConfigFiles/config.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="200" />
-    <option name="y" value="107" />
-    <option name="width" value="1200" />
-    <option name="height" value="646" />
+    <option name="x" value="848" />
+    <option name="y" value="18" />
+    <option name="width" value="947" />
+    <option name="height" value="802" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -87,7 +110,7 @@
             <path>
               <item name="ProjetoAngularJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjetoAngularJS" type="462c0819:PsiDirectoryNode" />
-              <item name="SpecFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="ConfigFiles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,19 +154,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549537669717</updated>
-      <workItem from="1549537671601" duration="6435000" />
+      <workItem from="1549537671601" duration="15709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6435000" />
+    <option name="totallyTimeSpent" value="15709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18377693" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3190319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -168,24 +191,38 @@
     <entry file="file://$PROJECT_DIR$/ConfigFiles">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpecFiles/FirstSpec.js">
+    <entry file="file://$PROJECT_DIR$/ElementLocators/Elements.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="187">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpecFiles/SecondSpec.js">
+    <entry file="file://$PROJECT_DIR$/SpecFiles/FirstSpec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="238">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="15" selection-end-column="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ConfigFiles/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="238">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpecFiles/SecondSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="66" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpecFiles/TC_003.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
         </state>
       </provider>
     </entry>

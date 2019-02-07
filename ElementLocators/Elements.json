@@ -1,0 +1,20 @@
+{
+  "login":
+  {
+    "login_username": "login.email" ,
+    "login_password": "login.password",
+    "login_keep_signed": "Field" ,
+    "login_signin": "button btn btn-success btn-large" ,
+    "login_register":"have an account"
+  },
+  "registration":
+  {
+    "register_firstname": "firstname" ,
+    "register_lastname": "lastname",
+    "register_email": "email" ,
+    "register_password": "password" ,
+    "register_confirmpassword":"confirm_password",
+    "register_terms": "//label[text()='Agree with the Terms & Conditions.']",
+    "register_register": "Register"
+  }
+}
